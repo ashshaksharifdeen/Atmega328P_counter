@@ -1,6 +1,7 @@
   **Introduction.**
   
-        This is our report for the Micro Controller Final Project for IA 2209 – Microcontroller Laboratory. We are 5 Team members in A team. By doing this project we have a great understanding of the ATmega 328p Micro Controller and How To Program It. 
+   This is our report for the Micro Controller Final Project for IA 2209 – Microcontroller Laboratory. We are 5 Team members in A team. By doing this project we have a great understanding of the ATmega 328p Micro 
+   Controller and How To Program It. 
  
   **Objectives (Tasks) of the project.**
           
